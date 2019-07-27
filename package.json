@@ -1,0 +1,9 @@
+{
+  "name": "ditadoonline-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:vitorleonel/ditadoonline-api.git",
+  "author": "Vitor Leonel <falecom@vitorleonel.com>",
+  "license": "true",
+  "private": true
+}
