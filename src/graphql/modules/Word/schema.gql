@@ -1,0 +1,8 @@
+type Word {
+  id: ID!
+  url: String!
+}
+
+type Query {
+  word: Word!
+}
